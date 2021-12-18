@@ -1,0 +1,49 @@
+*{
+   /* margin: 0px;
+   padding: 0px ; */
+}
+body{
+    margin: auto;
+}
+
+#sing-up{
+    background-color: teal;
+    width: 50%;
+ text-align: center;
+ margin: 75px auto;
+}
+
+#sing-up img{
+    text-align: center;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+
+}
+#sing-up h1{
+    color: white;
+}
+
+input{
+    width: 90%;
+    background-color:transparent ;
+    padding: 8px;
+    color: black;
+    margin-top: 10px;
+}
+input::placeholder{
+    color: black;
+}
+
+.btn{
+    text-align: center;
+    width: 92%;margin-bottom: 20px;
+    background-color: white;
+    color: turquoise;
+    border: none;
+}
+a{
+    color: white;
+    margin-bottom: 20px;
+    text-decoration-color: none;
+}
